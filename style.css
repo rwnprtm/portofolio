@@ -1,3 +1,12 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar .container .navbar-brand {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  font-style: italic;
+}
 .jumbotron {
   padding-top: 7rem;
   background-color: #e2edff;
@@ -11,9 +20,6 @@
   background-color: #e2edff;
 }
 
-/* .about {
-  padding: 2rem;
-} */
 section {
   padding-top: 5rem;
 }
